@@ -1,0 +1,29 @@
+●	User story 1: Anna
+●	User story 1: “As a site visitor, I want to browse a collection of recipes so that I discover meals that fit my dietary needs.”
+
+●	User story 2: Bobby
+●	User story 2: “As a site visitor, I want to view a recipe's ingredients, instructions, and other details so that I can prepare the meal correct”
+
+●	User story 3: Carl
+●	User story 3: “As a site visitor, I want to add my own recipes so that I can keep my favorite meals in one place.”
+
+●	User story 4: Dave
+●	User story 4: “As a site visitor I want to save recipes to a favorites collection so that I can quickly find meals I enjoy” 
+
+●	User story 5: Evelyn
+●	User story 5: “As a site user I want to edit a recipe I have added so that I can correct or update its ingredients and instructions” format
+
+●	User story 6: Frank
+●	User story 6: “As a site user, I want to delete a recipe from my collection so that I can remove recipes I no longer need” format
+
+●	User story 7: Grace
+●	User story 7: “As a site user, I want to filter recipes by meal type so that I can find suitable breakfast, lunch, dinner, or dessert ideas” format
+
+●	User story 8: Hugh
+●	User story 8: “As a site user, I want to search recipes by name or ingredient so that I can quickly find a specific meal or use ingredients I already have” format
+
+●	User story 9: Isabella
+●	User story 9: “As a gluten-free user, I want to view gluten-related information about a recipe's ingredients so that I can identify ingredients that may require further safety checks” format
+
+●	User story 10: Jack
+●	User story 10: “I want to adjust the number of servings for a recipe so that I can prepare the appropriate amount of food” format
