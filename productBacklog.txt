@@ -2,7 +2,7 @@
 ●	User story 1: “As a site visitor, I want to browse a collection of recipes so that I discover meals that fit my dietary needs.”
 
 ●	User story 2: Bobby
-●	User story 2: “As a site visitor, I want to view a recipe's ingredients, instructions, and other details so that I can prepare the meal correct”
+●	User story 2: “As a site visitor, I want to view a recipe's ingredients, instructions, and other details so that I can prepare the meal correctly”
 
 ●	User story 3: Carl
 ●	User story 3: “As a site visitor, I want to add my own recipes so that I can keep my favorite meals in one place.”
