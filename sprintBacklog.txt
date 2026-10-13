@@ -28,6 +28,7 @@ Functional requirements
 ●	Given a recipe exists in the collection, when the user opens that recipe, then the application displays its name, ingredient list, and preparation instructions.
 ●	Given the user is viewing a recipe, when they choose the return or back control, then the application returns them to the recipe browsing page.
 ●	Given a recipe contains multiple ingredients or preparation steps, when its details are displayed, then all stored ingredients and instructions are shown in the correct order.
+
 Quality attributes & Non-functional requirements
 ●	Reliability: For every recipe in the test collection, the displayed name, ingredients, and instructions must match the stored recipe data exactly, including ingredient quantities and instruction order.
 ------------------------------------------------------------------
