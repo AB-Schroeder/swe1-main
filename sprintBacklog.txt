@@ -1,1 +1,52 @@
-x
+First user story
+(Front of index card)
+Anna
+“As a site visitor, I want to browse a collection of recipes so that I discover meals that fit my dietary needs.”
+
+(Back of index card)
+Acceptance criteria
+
+Functional requirements
+●	Given the application has a collection of recipes, when the user opens the recipe browsing page, then the application displays the available recipes with their names.
+●	Given the recipe list is displayed, when the user selects a recipe, then the application opens the details for that recipe.
+●	Given the recipe collection is empty, when the user opens the browsing page, then the application displays a message explaining that no recipes are available.
+
+Quality attributes & Non-functional requirements
+●	Usability: A first-time user must be able to locate and open a recipe from the browsing page in no more than three user actions, using the provided navigation and controls.
+●	Accessibility: All interactive controls on the browsing page must have descriptive labels, support keyboard operation, and informatoin must not be conveyed by color alone.
+------------------------------------------------------------------
+
+Second user story
+(Front of index card)
+Bobby
+“As a site visitor, I want to view a recipe's ingredients, instructions, and other details so that I can prepare the meal correctly”
+
+(Back of index card)
+Acceptance criteria
+
+Functional requirements
+●	Given a recipe exists in the collection, when the user opens that recipe, then the application displays its name, ingredient list, and preparation instructions.
+●	Given the user is viewing a recipe, when they choose the return or back control, then the application returns them to the recipe browsing page.
+●	Given a recipe contains multiple ingredients or preparation steps, when its details are displayed, then all stored ingredients and instructions are shown in the correct order.
+Quality attributes & Non-functional requirements
+●	Reliability: For every recipe in the test collection, the displayed name, ingredients, and instructions must match the stored recipe data exactly, including ingredient quantities and instruction order.
+------------------------------------------------------------------
+  
+Third user story
+(Front of index card)
+Carl
+“As a site visitor, I want to add my own recipes so that I can keep my favorite meals in one place.”
+
+(Back of index card)
+Acceptance criteria
+
+Functional requirements
+●	Given the user is on the recipe browsing page, when they select the add-recipe control, then the application displays a form for entering a recipe name, ingredients, and preparation instructions.
+●	Given the user enters a nonempty recipe name, ingredient list, and instruction list, when they submit the form, then the application saves the recipe and makes it available in the recipe collection.
+●	Given the user submits a recipe with a missing or blank required field, when the application validates the form, then the recipe is not saved, and a message identifies the missing information.
+●	Given the user successfully adds a recipe, when they return to the recipe browsing page, then the new recipe appears in the list and can be opened.
+
+Quality attributes & Non-functional requirements
+●	Accessibility: The recipe form must be operable using only the keyboard and error messages that identify the problem using text rather than color alone.
+●	Reliability: The recipe must have the same ingredients and instructions that the user entered.
+------------------------------------------------------------------
